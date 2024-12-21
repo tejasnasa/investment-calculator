@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  background: radial-gradient(#303b37, #1a1f1d);
+}
+
 body {
   margin: 0;
   font-family: "Quicksand", sans-serif;
